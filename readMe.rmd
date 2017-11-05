@@ -1,0 +1,13 @@
+# Objective of Exploratory Graphic Data Analysis #
+
+This Project deals with loading the data from source and exploring using various graphic techniques. The source of the data is from  "UC Irvine Machine Learning Repository" , a popular repository for machine learning datasets. 
+In particular, we will be using the "Individual household electric power consumption Data Set".
+
+## Basic steps or pre-requisite for this project ##
+* Set the working directory.
+* Check your current graphic device using dev.cur() and make sure it is set to the current display screen.
+* No need to import any library.
+
+## Starting with the project ##  
+* Run plot1.R,plot2.R,plot3.R and plot4.R step-by-step separately.
+* Respective png files gets generated into your local file system in the same respective name of the file.
